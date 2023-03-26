@@ -1,0 +1,3 @@
+[submodule "clinical-consult-api"]
+	path = clinical-consult-api
+	url = https://github.com/Adriano-Cardoso/clinical-consult-api.git
